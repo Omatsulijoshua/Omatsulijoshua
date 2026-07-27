@@ -144,30 +144,57 @@ Interactive experiences that combine software engineering, visual storytelling, 
 
 ## 📊 GitHub Analytics
 
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 100+
+**Repositories**
+
+Ideas explored and products built
+
+</td>
+<td align="center" width="25%">
+
+### 6
+**Engineering Domains**
+
+Mobile · Web · AI · Cloud · Blockchain · SaaS
+
+</td>
+<td align="center" width="25%">
+
+### 20+
+**Technologies**
+
+From Flutter to Kubernetes
+
+</td>
+<td align="center" width="25%">
+
+### ∞
+**Curiosity**
+
+Always learning and building
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Omatsulijoshua&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&ring_color=7C3AED" alt="Joshua's GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omatsulijoshua&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Joshua's most used languages" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Omatsulijoshua&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Joshua's contribution streak" />
+[![GitHub followers](https://img.shields.io/github/followers/Omatsulijoshua?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=111827&color=7C3AED)](https://github.com/Omatsulijoshua?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Omatsulijoshua?affiliations=OWNER&style=for-the-badge&logo=github&label=TOTAL%20STARS&labelColor=111827&color=0891B2)](https://github.com/Omatsulijoshua?tab=repositories)
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 Engineering Highlights
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Omatsulijoshua&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies" />
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omatsulijoshua&bg_color=0D1117&color=A78BFA&line=22D3EE&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" />
-
-</div>
+- **AI Developer** — building intelligent agents, voice experiences, RAG systems, and automation
+- **Flutter Specialist** — creating polished cross-platform mobile products
+- **Full Stack Engineer** — shipping complete products from interface to infrastructure
+- **Blockchain Developer** — exploring smart contracts, Web3, Solana, and digital assets
+- **SaaS Founder** — turning ambitious ideas into focused, scalable platforms
 
 ## 🌱 Currently Learning
 
