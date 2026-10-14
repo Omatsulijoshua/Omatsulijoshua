@@ -2,9 +2,9 @@
 
 ![Joshua Omatsuli — Full Stack Software Engineer](./banner.png)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;Flutter+Developer+%26+AI+Engineer;Cloud+%26+Blockchain+Developer;SaaS+Founder+%40+Emerald+Code+Studios;Building+the+future+with+code" alt="Animated roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;Flutter+Developer+%26+AI+Engineer;Cloud+%26+Blockchain+Developer;SaaS+Founder+%40+Emerald+Code+Studios;Building+the+future+with+code" alt="Animated roles" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Omatsulijoshua&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge)](https://github.com/Omatsulijoshua)
+[![Profile Views](https://komarev.com/ghpvc/?username=Omatsulijoshua&label=PROFILE+VIEWS&color=059669&style=for-the-badge)](https://github.com/Omatsulijoshua)
 [![Followers](https://img.shields.io/github/followers/Omatsulijoshua?label=FOLLOWERS&style=for-the-badge&color=0891b2&labelColor=111827)](https://github.com/Omatsulijoshua?tab=followers)
 [![Repositories](https://img.shields.io/badge/REPOSITORIES-EXPLORE-7c3aed?style=for-the-badge&labelColor=111827)](https://github.com/Omatsulijoshua?tab=repositories)
 
@@ -15,6 +15,8 @@
 I'm a Full Stack Software Engineer from Nigeria and the founder of **Emerald Code Studios**. I build production-ready products across mobile, web, artificial intelligence, cloud computing, and blockchain.
 
 My work spans enterprise SaaS, AI systems, logistics, legal technology, education, finance, healthcare, 3D CAD, and creative digital experiences. I care about clean architecture, thoughtful design, and software that solves real problems.
+
+> 🏆 **2026 Hackathon Winner** — My team, **Team Luma**, won **1st Place** at the **Wema Bank Hackaholics Benin City Edition**.
 
 ```typescript
 const joshua = {
@@ -189,6 +191,24 @@ Always learning and building
 </div>
 
 ## 🏆 Engineering Highlights
+
+### 2026 Wema Bank Hackaholics — Benin City Edition
+
+My team, **Team Luma**, earned **1st Place** at the Wema Bank Hackaholics Benin City Edition. It was a proud team achievement built on collaboration, focused execution, and turning an ambitious idea into a winning solution.
+
+<div align="center">
+
+<img src="./assets/gallery/wema-hackathon-team-1.jpg" width="48%" alt="Team Luma celebrating first place at the 2026 Wema Bank Hackaholics Benin City Edition" />
+<img src="./assets/gallery/wema-hackathon-team-2.jpg" width="48%" alt="Team Luma holding the first-place award board" />
+
+<img src="./assets/gallery/wema-hackathon-stage.jpg" width="48%" alt="Wema Bank Hackaholics Benin finale winners on stage" />
+<img src="./assets/gallery/wema-hackathon-portrait.jpg" width="48%" alt="Joshua with Team Luma's first-place award" />
+
+<sub>Team Luma · 1st Place · Benin City · 2026</sub>
+
+</div>
+
+### More Highlights
 
 - **AI Developer** — building intelligent agents, voice experiences, RAG systems, and automation
 - **Flutter Specialist** — creating polished cross-platform mobile products
