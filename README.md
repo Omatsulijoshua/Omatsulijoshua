@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;Flutter+Developer+%26+AI+Engineer;Cloud+%26+Blockchain+Developer;SaaS+Founder+%40+Emerald+Code+Studios;Building+the+future+with+code" alt="Animated roles" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Omatsulijoshua&label=PROFILE+VIEWS&color=059669&style=for-the-badge)](https://github.com/Omatsulijoshua)
+[![Profile Views](https://komarev.com/ghpvc/?username=Omatsulijoshua&label=PROFILE%20VIEWS&color=059669&style=for-the-badge&abbreviated=true&v=20261014)](https://github.com/Omatsulijoshua)
 [![Followers](https://img.shields.io/github/followers/Omatsulijoshua?label=FOLLOWERS&style=for-the-badge&color=0891b2&labelColor=111827)](https://github.com/Omatsulijoshua?tab=followers)
 [![Repositories](https://img.shields.io/badge/REPOSITORIES-EXPLORE-7c3aed?style=for-the-badge&labelColor=111827)](https://github.com/Omatsulijoshua?tab=repositories)
 
