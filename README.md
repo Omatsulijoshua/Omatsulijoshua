@@ -12,6 +12,8 @@
 
 ## Hello, I'm Joshua 👋
 
+<img align="right" width="190" src="./assets/joshua-profile.jpg" alt="Portrait of Joshua Omatsuli" />
+
 I'm a Full Stack Software Engineer from Nigeria and the founder of **Emerald Code Studios**. I build production-ready products across mobile, web, artificial intelligence, cloud computing, and blockchain.
 
 My work spans enterprise SaaS, AI systems, logistics, legal technology, education, finance, healthcare, 3D CAD, and creative digital experiences. I care about clean architecture, thoughtful design, and software that solves real problems.
