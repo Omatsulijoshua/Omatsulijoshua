@@ -1,6 +1,6 @@
 <div align="center">
 
-![Joshua Omatsuli — Full Stack Software Engineer](./banner.png)
+![Joshua Omatsuli — Full Stack Software Engineer](./assets/profile-banner-2026.png)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;Flutter+Developer+%26+AI+Engineer;Cloud+%26+Blockchain+Developer;SaaS+Founder+%40+Emerald+Code+Studios;Building+the+future+with+code" alt="Animated roles" />
 
