@@ -201,10 +201,7 @@ My team, **Team Luma**, earned **1st Place** at the Wema Bank Hackaholics Benin 
 <div align="center">
 
 <img src="./assets/gallery/wema-hackathon-team-1.jpg" width="48%" alt="Team Luma celebrating first place at the 2026 Wema Bank Hackaholics Benin City Edition" />
-<img src="./assets/gallery/wema-hackathon-team-2.jpg" width="48%" alt="Team Luma holding the first-place award board" />
-
 <img src="./assets/gallery/wema-hackathon-stage.jpg" width="48%" alt="Wema Bank Hackaholics Benin finale winners on stage" />
-<img src="./assets/gallery/wema-hackathon-portrait.jpg" width="48%" alt="Joshua with Team Luma's first-place award" />
 
 <sub>Team Luma · 1st Place · Benin City · 2026</sub>
 
