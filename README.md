@@ -2,7 +2,7 @@
 
 ![Joshua Omatsuli — Full Stack Software Engineer](./assets/profile-banner-2026.png)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;Flutter+Developer+%26+AI+Engineer;Cloud+%26+Blockchain+Developer;SaaS+Founder+%40+Emerald+Code+Studios;Building+the+future+with+code" alt="Animated roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;Flutter+Developer+%26+AI+Engineer;HTML5+%26+Unity+Game+Developer;Cloud+%26+Blockchain+Developer;SaaS+Founder+%40+Emerald+Code+Studios;Building+the+future+with+code" alt="Animated roles" />
 
 [![Profile](https://img.shields.io/badge/PROFILE-OMATSULIJOSHUA-059669?style=for-the-badge&logo=github&logoColor=white&labelColor=111827)](https://github.com/Omatsulijoshua)
 [![Profile Views](https://api.visitorbadge.io/api/visitors?path=Omatsulijoshua&label=PROFILE%20VIEWS&labelColor=%23111827&countColor=%23059669&style=for-the-badge)](https://github.com/Omatsulijoshua)
@@ -15,7 +15,7 @@
 
 <img align="right" width="190" src="./assets/joshua-profile-circle.png" alt="Portrait of Joshua Omatsuli" />
 
-I'm a Full Stack Software Engineer from Nigeria and the founder of **Emerald Code Studios**. I build production-ready products across mobile, web, artificial intelligence, cloud computing, and blockchain.
+I'm a Full Stack Software Engineer from Nigeria and the founder of **Emerald Code Studios**. I build production-ready products across mobile, HTML5 web experiences, Unity game development, artificial intelligence, cloud computing, and blockchain.
 
 My work spans enterprise SaaS, AI systems, logistics, legal technology, education, finance, healthcare, 3D CAD, and creative digital experiences. I care about clean architecture, thoughtful design, and software that solves real problems.
 
@@ -23,9 +23,9 @@ My work spans enterprise SaaS, AI systems, logistics, legal technology, educatio
 
 ```typescript
 const joshua = {
-  roles: ["Full Stack Engineer", "Flutter Developer", "AI Engineer", "Founder"],
+  roles: ["Full Stack Engineer", "Flutter Developer", "Unity Game Developer", "AI Engineer", "Founder"],
   company: "Emerald Code Studios",
-  focus: ["Mobile", "Web", "AI", "Cloud", "Blockchain", "SaaS"],
+  focus: ["Mobile", "HTML5", "Unity Games", "AI", "Cloud", "Blockchain", "SaaS"],
   mission: "Build scalable software that improves lives",
   status: "Always learning. Always building."
 };
@@ -94,7 +94,7 @@ An AI scheduling and productivity platform designed to turn plans into focused, 
 
 ### 🎨 Creative Technology
 
-Interactive experiences that combine software engineering, visual storytelling, motion, and graphic design.
+Interactive HTML5 and Unity experiences that combine game development, software engineering, visual storytelling, motion, and graphic design.
 
 </td>
 </tr>
@@ -104,14 +104,16 @@ Interactive experiences that combine software engineering, visual storytelling, 
 
 <div align="center">
 
-### Mobile & Frontend
+### Mobile, Frontend & Game Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Backend & Data
 
@@ -161,10 +163,10 @@ Ideas explored and products built
 </td>
 <td align="center" width="25%">
 
-### 6
+### 7
 **Engineering Domains**
 
-Mobile · Web · AI · Cloud · Blockchain · SaaS
+Mobile · Web · Games · AI · Cloud · Blockchain · SaaS
 
 </td>
 <td align="center" width="25%">
@@ -212,6 +214,8 @@ My team, **Team Luma**, earned **1st Place** at the Wema Bank Hackaholics Benin 
 
 - **AI Developer** — building intelligent agents, voice experiences, RAG systems, and automation
 - **Flutter Specialist** — creating polished cross-platform mobile products
+- **HTML5 Developer** — building responsive, accessible, and interactive web experiences
+- **Unity Game Developer** — creating interactive gameplay, real-time experiences, and game prototypes
 - **Full Stack Engineer** — shipping complete products from interface to infrastructure
 - **Blockchain Developer** — exploring smart contracts, Web3, Solana, and digital assets
 - **SaaS Founder** — turning ambitious ideas into focused, scalable platforms
@@ -222,6 +226,7 @@ My team, **Team Luma**, earned **1st Place** at the Wema Bank Hackaholics Benin 
 - Distributed systems and advanced system design
 - Kubernetes, infrastructure, and cloud-native architecture
 - Rust and performance-focused engineering
+- Advanced Unity development, gameplay systems, and interactive 3D experiences
 - Advanced blockchain development and smart-contract security
 - Cybersecurity and secure product development
 
@@ -238,7 +243,7 @@ My goal is simple: **build software that improves millions of lives.**
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Joshua-181717?style=for-the-badge&logo=github)](https://github.com/Omatsulijoshua)
 [![Emerald Code Studios](https://img.shields.io/badge/Emerald_Code_Studios-Let's_Build-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white)](https://github.com/Omatsulijoshua)
 
-Open to collaboration on ambitious **AI, mobile, SaaS, cloud, and blockchain products**.
+Open to collaboration on ambitious **AI, mobile, HTML5, Unity game, SaaS, cloud, and blockchain products**.
 
 ### Thanks for visiting — happy coding! 💜
 
